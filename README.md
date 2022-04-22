@@ -1,90 +1,52 @@
-# Welcome to GitHub
+# PRÁCTICA IA
 
-Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
+  Práctica realizada por Carmen Sánchez Hernández, estudiante del grado de Ingenieria Informática.
 
-## Repositories
+  Práctica de Inteligencia Artificial de tercero de grado. 
 
-Right now, we’re in your first GitHub **repository**. A repository is like a folder or storage space for your project. Your project's repository contains all its files such as code, documentation, images, and more. It also tracks every change that you—or your collaborators—make to each file, so you can always go back to previous versions of your project if you make any mistakes.
+# Entorno 
 
-This repository contains three important files: The HTML code for your first website on GitHub, the CSS stylesheet that decorates your website with colors and fonts, and the **README** file. It also contains an image folder, with one image file.
+   - HP Laptop Model 15-dw0002ns
+   - Intel Core i7 8565U 
+   - 16 GB RAM 
+   - 512 GB SSD
+   
+# Lenguaje utilizado en esta práctica 
 
-## Describe your project
+- Python 3.9.7
 
-You are currently viewing your project's **README** file. **_README_** files are like cover pages or elevator pitches for your project. They are written in plain text or [Markdown language](https://guides.github.com/features/mastering-markdown/), and usually include a paragraph describing the project, directions on how to use it, who authored it, and more.
+# Frame Work utilizado
 
-[Learn more about READMEs](https://help.github.com/en/articles/about-readmes)
+- anadonda-navigator 
 
-## Your first website
+[link to anadonda](https://www.anaconda.com/products/individual)
 
-**GitHub Pages** is a free and easy way to create a website using the code that lives in your GitHub repositories. You can use GitHub Pages to build a portfolio of your work, create a personal website, or share a fun project that you coded with the world. GitHub Pages is automatically enabled in this repository, but when you create new repositories in the future, the steps to launch a GitHub Pages website will be slightly different.
+- visual studio code 
 
-[Learn more about GitHub Pages](https://pages.github.com/)
+[link to visual studio code](https://code.visualstudio.com/)
 
-## Rename this repository to publish your site
+# Guiones de prácticas
 
-We've already set-up a GitHub Pages website for you, based on your personal username. This repository is called `hello-world`, but you'll rename it to: `username.github.io`, to match your website's URL address. If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right.
+[link to practica1](https://learn-eu-central-1-prod-fleet01-xythos.content.blackboardcdn.com/61b763d0aca3c/3196141?X-Blackboard-Expiration=1647820800000&X-Blackboard-Signature=rjVD3Zz17mQDIma2h6D0k03y7AeRotb30yQafbOxtS4%3D&X-Blackboard-Client-Id=300307&response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27Pr%25C3%25A1ctica%25201%2520-%2520B%25C3%25BAsquedas.pdf&response-content-type=application%2Fpdf&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEHsaDGV1LWNlbnRyYWwtMSJHMEUCICGuOBxhA05qo8Y%2BMAg%2F2csryQ9DBNuFSP1XpHORJComAiEAweN13Av7qmVIWUNX5EYB%2BP3NdWFZO%2FT88SFCrvpgCogqiQQI9P%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARACGgw2MzU1Njc5MjQxODMiDFvbuCcps3zqsb2ufCrdA1mYpwfth%2B9zgUdFpNMiumKjS3PGMfn90kg%2B6NP1ao3ovRoHI%2B0huSR11qhpGNWR31Ttgbb3FiMF8m8XoJmQ5B7m19dvOFxyVXutBRxDb34Vsf7LqYQQX2Xet%2Be3KBneNlGDqnxlUuXAIu73Bo6tmUlxnSeqqiM%2Ff7ONStBuPytLnaToiHaXQPD5R%2BLcJ5CMoRGshHr%2FJQ2Zw3%2Fjz9slrkHTfqd3gMtlok2dCSMarA4UJjn2XmIF%2FJgIuesMmo0hJrUS3XJvXW5x5TaePtjY0HdVp3TKLxxdaPJbI0WAHs%2F3oaGiIPs1yJ0LqlhA%2FD%2BdPFvcn5bamZoZXb12K7UHueJ5btf8O5icesZqsJJPf5pABZZFu6qTyJY9NbL4%2BIjUjc7fbGbZ5EnsiIpkhmbVE5WaU%2FKI4hUVi0K4zdPqHg7RwSonjNcbK8UzMILg6sNL4UdraWW1xeN2M3GWm0Zy0je%2F4AZxMV01zppTCaJVTor%2F%2B9zbXhKTQaqxqIHSTU0l%2F854vadYcxL8bv5qPLEsNS%2F3fj25Rkc8zJYDvvzGVNDXIDKRlWXSA6vLa2lPJOQ9mWdELH2uNLzKI8%2Be0tNa%2FaHu0RGgVmQ4nPLg9uGqemY%2FOiG2oQg9x%2BVQUhQkWjC56N2RBjqlAdYUZpIIJb%2BiFl7OVGoTjTn%2BDPZ9bq5H3UiMsiBNGuwoWcNe77gE5yIlR0FC5waRwzPaBUvVZ%2FmkbCTM4NRZUOVIdNbmDI3mteLGqkhNkyN1AojxtOHdyO4UyE0bY5f6cKOLDtwBsxfzoCBAkr7bV7h5t%2F4d9Sx1UxJWvcL8wu17HsJUVEvw6cJk%2Fq6kHQd5%2BEH3zcsqvYZY4i%2BRmO0IDZL%2FsmdYyA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220320T180000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=ASIAZH6WM4PLS54WXUOR%2F20220320%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=9aaa10b2194017a4184458d7225f73966f6280625db997d56ed5ff89b47a9cee)
 
-Let's get started! To update this repository’s name, click the `Settings` tab on this page. This will take you to your repository’s settings page. 
+Hay que modificar: 
+-  search.py, en el cual residirán todos tus algoritmos de búsqueda; 
+-  searchAgents.py, residirán todos tus agentes basados en búsquedas. 
+    
+Los demás .py te ayudaran a implementar los dos que tienes que modificar. 
 
-![repo-settings-image](https://user-images.githubusercontent.com/18093541/63130482-99e6ad80-bf88-11e9-99a1-d3cf1660b47e.png)
+[link to practica2](https://learn-eu-central-1-prod-fleet01-xythos.content.blackboardcdn.com/61b763d0aca3c/3225772?X-Blackboard-Expiration=1648425600000&X-Blackboard-Signature=KtWeQbRjKHDQi8cKveXi%2Fg44ANgXSgBTD1COkScb9lY%3D&X-Blackboard-Client-Id=300307&response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27Pr%25C3%25A1ctica%25202%2520-%2520MultiAgente.pdf&response-content-type=application%2Fpdf&X-Amz-Security-Token=IQoJb3JpZ2luX2VjECIaDGV1LWNlbnRyYWwtMSJHMEUCIQDxWcXXoTwplUfrPHNGDDQWqQpdmYCmQg3uurczJM1hPgIgG%2FkDKrqdb2Htp47FzgpPVPgnnvGPiMvP4P4pD%2B%2B4LW4qiQQIq%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARACGgw2MzU1Njc5MjQxODMiDKoR03cf%2BVraUprL2irdA5W3BWNVjRAhj9iXvhtRaIba2LPmW9HlB3OvhWcif%2B5PMt1BITmK3%2FuLnKAzdqh4KeU6eSO4UaN026VB2XMOrT95mENKRHiH%2B%2Bqi5vqXU%2F27UairUcNquPF47WqAiwtNCHPq2QfEMKBgNn7FuKtaWE4or5ALn%2BWqAFG%2FFqhja71WMv8fWjVblvpDlLXe9Mosq1o5gW%2Fm54fjJelc5cCgB7K4jmAY3yVQIFc5spow2W%2BJg2qqPASmhHPpwOvRW9c8Lt9lkWG%2Fc5njTqliiWhXpMW1bC53fDEziubOCDcXrmf8YXs020pZZd%2BsxrA43v5OvFlWf1AwL%2BMxHqkUC78gIjvj6MGegyTZZOZmKxOKWqBM3kV08XDNX4U5aWfUqzMf4jc6V9zbw6cJaPJHyXOIQs6aXYFzBecipNexfCh3A5Lqn0c89G0yLSnz%2BNcUmDkhWOYL1untRGO83TMwqcC1OwhmhkHIQuLEMqvSsRpmqBUMad1WIFs6nOVYdKPwPsTIwrYDCIm1LFAM%2FnLE7tYUjoKPmBNhEs6eTVEgceLOlvuVOiMWI2spkn%2F87hds9bty2uq%2Bu6qkSWQij5o%2FxqgsAMosK63QYcOxrfYJ%2B7PezXw8hpCyAlBec6EXyLBf%2BjC2x4KSBjqlATYYHLWwrdolbFAJYKSpnC64zvUI7pQB7qhuy00LOFgxPPDb7FK66i6ibKvt33qthCxnkn3AnMCNtoCOf2ECSzMe9IVOpd1%2BGrKl8NV76%2Fa46juOR818V0l%2BmB2aY46al8W%2FTehxblMreAZnfWP1K4TF%2F7d%2BvJM6WS0dJyoefG02IH3fiWb1TC33XRIZQFrm7umDQPKZw0UCL4cDZVWQM%2BxdGXSQmw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220327T180000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=ASIAZH6WM4PL5F2LNFE6%2F20220327%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=afbb2696a3348bd6a9bb37d557067df470e95655efadcadc082cc6eb066e10e0) 
 
-Under the **Repository Name** heading, type: `username.github.io`, where username is your username on GitHub. Then click **Rename**—and that’s it. When you’re done, click your repository name or browser’s back button to return to this page.
+Hay que modificar: 
+-  multiAgents.py, en el cuál residirán todos sus agentes de búsqueda multiagente.
+    
+Los demás .py te ayudaran a implementar los dos que tienes que modificar. 
 
-<img width="1039" alt="rename_screenshot" src="https://user-images.githubusercontent.com/18093541/63129466-956cc580-bf85-11e9-92d8-b028dd483fa5.png">
+[link to practica3](https://learn-eu-central-1-prod-fleet01-xythos.content.blackboardcdn.com/61b763d0aca3c/3276787?X-Blackboard-Expiration=1648836000000&X-Blackboard-Signature=ONqcjcluMSnQJiP7s%2B1ZOVobXol8W140UuaBxXnbytI%3D&X-Blackboard-Client-Id=300307&response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27Pr%25C3%25A1ctica%25203%2520-%2520Aprendizaje%2520por%2520Refuerzo.pdf&response-content-type=application%2Fpdf&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDGV1LWNlbnRyYWwtMSJHMEUCIQDNHe%2FzWXur4IrOcYcKe2iY90gPuR9EiMwvKfM5R7XWDwIgZCYRzQru2wWBjnUA%2BaDO89J0wek6WV%2FmdeKYpbJNedQqgAQILRACGgw2MzU1Njc5MjQxODMiDEfeMUciBLaKJoaLKCrdA%2BsxI%2FqK1qa3627vEvsS%2B%2BU4oFFKk5RQrmEdYPbBfy1epnLkT4n%2FCBzFIG64vKmiXOo190f4Jhd8D05IqIExziLFkZ1i6EJcfu%2FHMpV3dTNbI1jv0%2Fix5%2Fd2mrCe4rX6l9Bz7Bi66XMLkPNRq%2Bchv09RWpD7xSCVdhr2eR55gmSPfdliD2KryuSYUdnLxGYsTmvnWTyIFXEV0TWvU59ND9NeOwhdyVZrIQ6GIq4leAgjmM706k0Nlgu5aesKWu%2BtdbZh5oOGe984%2BAlAQceMub1PYdKzoCg3CFYpZ1rYgDnXx3daqsVjDlb0Vo6ttcQSG7079RCq%2FeGy%2FwVRW%2FCsXpYgRe5W90OLVyJn2z%2FFNkJjLoF7bpgmEp0ZmTlde7LR1%2FWL1OT%2BjbKAyOLTV3%2BIpSBByHuEh7KHEog3WNCW8eW7CYaLQ1djhNgl6HdRABmIug3VKp4GZpQlfPBrni3o64h1vrWOME83gV2ZjSXolwq9wp1cmiLioMdCtyQIOikWbkMUf1VdvQ%2BQOLgm4bclJr%2BFrH3srirxOhvmi%2B3p%2BaWyjIZCWkOynB8UZj5qfVLC4VXj5MNDpmdGyipSo4dJlBlgW9z5dJ5M7yNPO9%2FvGQenXNXbDDWx8kXkitWHJTCCyJuSBjqlAeBnGHsc%2FdA7dY%2F%2BNKxgPPGyF8RpFyWKHP5jmDsohTWFJn130fcGIY4g6uUkmfZTYC7DPi3Sbo5Ptz7RXW%2FQQSba5rMJhquncxGtIBtbP8kWpPQYkMlsbwGGpQZqdmesxhAbfdqU2CIvzBzzIDPCHJiHP0rKIqu%2BBKstrWuXy8KZFUlu3xrqR7W9AHVx%2FnXwBWwl4cfj0Gzq6fvPnej0OFh%2FwD12Bg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220401T120000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=ASIAZH6WM4PL52RPXW5L%2F20220401%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=4e91cd5cab49980a1b5c830fb6bb7f917e8ea2c5ff62c9fe81b243540b12e985)
 
-Once you click **Rename**, your website will automatically be published at: https://your-username.github.io/. The HTML file—called `index.html`—is rendered as the home page and you'll be making changes to this file in the next step.
-
-Congratulations! You just launched your first GitHub Pages website. It's now live to share with the entire world
-
-## Making your first edit
-
-When you make any change to any file in your project, you’re making a **commit**. If you fix a typo, update a filename, or edit your code, you can add it to GitHub as a commit. Your commits represent your project’s entire history—and they’re all saved in your project’s repository.
-
-With each commit, you have the opportunity to write a **commit message**, a short, meaningful comment describing the change you’re making to a file. So you always know exactly what changed, no matter when you return to a commit.
-
-## Practice: Customize your first GitHub website by writing HTML code
-
-Want to edit the site you just published? Let’s practice commits by introducing yourself in your `index.html` file. Don’t worry about getting it right the first time—you can always build on your introduction later.
-
-Let’s start with this template:
-
-```
-<p>Hello World! I’m [username]. This is my website!</p>
-```
-
-To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
-
-<img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
-
-
-Delete this placeholder line:
-
-```
-<p>Welcome to your first GitHub Pages website!</p>
-```
-
-Then, paste the template to line 15 and fill in the blanks.
-
-<img width="1032" alt="edit-githuboctocat-index" src="https://user-images.githubusercontent.com/18093541/63132339-c3a2d300-bf8e-11e9-8222-59c2702f6c42.png">
-
-
-When you’re done, scroll down to the `Commit changes` section near the bottom of the edit page. Add a short message explaining your change, like "Add my introduction", then click `Commit changes`.
-
-
-<img width="1030" alt="add-my-username" src="https://user-images.githubusercontent.com/18093541/63131801-efbd5480-bf8c-11e9-9806-89273f027d16.png">
-
-Once you click `Commit changes`, your changes will automatically be published on your GitHub Pages website. Refresh the page to see your new changes live in action.
-
-:tada: You just made your first commit! :tada:
-
-## Extra Credit: Keep on building!
-
-Change the placeholder Octocat gif on your GitHub Pages website by [creating your own personal Octocat emoji](https://myoctocat.com/build-your-octocat/) or [choose a different Octocat gif from our logo library here](https://octodex.github.com/). Add that image to line 12 of your `index.html` file, in place of the `<img src=` link.
-
-Want to add even more code and fun styles to your GitHub Pages website? [Follow these instructions](https://github.com/github/personal-website) to build a fully-fledged static website.
-
-![octocat](./images/create-octocat.png)
-
-## Everything you need to know about GitHub
-
-Getting started is the hardest part. If there’s anything you’d like to know as you get started with GitHub, try searching [GitHub Help](https://help.github.com). Our documentation has tutorials on everything from changing your repository settings to configuring GitHub from your command line.
+Hay que modificar: 
+- valueiterationAgents.py el cual contiene un agente de iteración de valores para resolver MDPs; 
+- qlearningAgents.py el cual contiene Q-learning agentes de Gridworld, Crawler y Pacman; 
+- analysis.py el cual contiene un archivo para poner sus respuestas a las preguntas dadas en dicho proyecto. 
+    
+Los demás .py te ayudaran a implementar los que tenemos que modificar.
