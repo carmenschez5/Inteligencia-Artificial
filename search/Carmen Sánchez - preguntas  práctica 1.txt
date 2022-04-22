@@ -1,0 +1,26 @@
+ALUMNA: CARMEN SÁNCHEZ 
+INTELIGENCIA ARTIFICIAL - PRÁCTICA I - SEARCH.PY 
+
+
+PREGUNTA 1: 
+
+-  ¿Es el orden de exploración lo que hubieras esperado? 
+No, Pacman escoge el camino más largo, por lo que decide irse por el Oeste cuando el más óptimo comienza por el Sur. 
+- ¿Pacman realmente va a todas las casillas exploradas en su camino a la meta?
+No, recorre todos los caminos posibles hasta llegar al objetivo. Pero, cuando encuentra con una casilla ya visitada, la pila decrece (se vacía ese lugar), 
+para poder realizar otro movimiento para que consiga alcanzar su objetivo ya propuesto. 
+- ¿Es esta una solución de menor coste? Si no es así, piensa qué es lo que la búsqueda de profundidad primero está haciendo mal.
+Es una solución con un menor coste, pero no es la más óptima. Es decir, si observamos su comportamiento escoge dicho camino e intenta resolver dicho problema por ahí. 
+
+
+PREGUNTA 2: 
+
+- ¿BFS encuentra una solución de menor coste? Si no es así, comprueba la implementación.
+Si, porque al hacer python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs podemos observar que coge el camino más óptimo. 
+
+
+PREGUNTA 4: 
+
+-  ¿Qué sucede en openMaze para las diversas estrategias de búsqueda?
+Cuando ejecutamos el openMaze, observamos que el Pacman no tiene el camino señalizado que le ayuda en la búsqueda, por lo que nuestro camino se convierte en nuestra
+propia guía. Por ello, cuando Pacman hace el recorrido deja ciertas zonas sin visitar. 
