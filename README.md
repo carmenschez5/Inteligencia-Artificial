@@ -50,3 +50,16 @@ Hay que modificar:
 - analysis.py el cual contiene un archivo para poner sus respuestas a las preguntas dadas en dicho proyecto. 
     
 Los demás .py te ayudaran a implementar los que tenemos que modificar.
+
+
+[link to practica5](https://learn-eu-central-1-prod-fleet01-xythos.content.blackboardcdn.com/61b763d0aca3c/3330621?X-Blackboard-Expiration=1650996000000&X-Blackboard-Signature=6ORtRgf9XMVh8UuUu9eAsLk6LHu0AEpaH0GFVVll1aQ%3D&X-Blackboard-Client-Id=300307&response-cache-control=private%2C%20max-age%3D21600&response-content-disposition=inline%3B%20filename%2A%3DUTF-8%27%27Pr%25C3%25A1ctica%25205%2520-%2520Redes%2520Neuronales.pdf&response-content-type=application%2Fpdf&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDGV1LWNlbnRyYWwtMSJGMEQCIFeBJQqopt%2BqpJsxX740QOYqB9iluTIAOi683N2DZThlAiBfUPqhiqOn3TgZoO6hRaYMvXbUJHM510skGY8hB%2BAoKyrlBAik%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAIaDDYzNTU2NzkyNDE4MyIMx1N4gUHiQ%2BkXqRS%2BKrkE1vGiN%2F0qM0P7141d6Wf%2Fk1UAKBfP48MAhHAdM81CcpdVbOmvdT7Rtn%2BMmHIdQL8fRIP%2BlefTNrRAyijmOh6%2BXriF9ITCWlW1PfUBZX%2BoWNM%2BOeFsGotdvO6aYG58mbhZKnUj3vnlm5XKniOSmnx4VtjKCjbZLkoCqSh44P65NJKPq00yAwvp2v62FKePdQGxgqyavYCTPpCeIi6MdF%2B1gqXvB3E62Iaj%2BGfWQIAqSR70CzMnR%2FYJyEenZgFFsGcvZohKYLt6rFZg5O%2BqBLQtxz0w1tfjRUN0bistHWXzuO4dnApEklR%2FS0zVtObG%2FCc0SsdKp0HwD%2FpRsSUULCmqirTriN0Hr%2FysYHSXEEbJGMiTCZOvUzRb7dGFmSTFSy8h2zzizEoBTFXVTrfgHhMTrBYOrWGBYUJPausPOgbdN0jmxzeDGJLwlfvNmsS7gkRanCmB3oGFYLXnjbfjmvKWOOkjHbsEmUqmGtVFK%2BOBEk%2BhiZjZn7FTkBo7b8v6WfeoCBv%2B2KAO9gtIm94tksWWG8A9Vfp47yjh%2Bk4fnTCHMp8f3se7UNugiOFH9bJSXb2J8MuQ57hgbws0Gn2J3m1Q7DTCYIY81YcYlE5fxFKIT3H3jGb9eSyNTIKCIFhborzLl10SfUTWqKUUOk1SdoPB4sW4LOLE4uVKklNz8qbribZ6yTvu66sQUkw6u0DfXLYKiaRa9Z23cXO%2BS%2BorJXRFbEUPj09aVFEwgK8VpL010IgDSH9K0whpi%2FwwyK2fkwY6qgFrGQw8qXYvS4J68lZCy0%2FZv9jBjb9VOg%2Fpa32p8TGw89l0pgxVE2Oew9ZWxmL%2FzBtPQLQIm36ugnlFqOkhUZebBxiLbVO6mnbfuETH%2FF8BBW8YxgzXGp2wIINKaTEuaM5I%2BmntPKvuSrNf0sKa%2FezZtZfBR3gnN9FA1fEq%2BcqM51BYmDK2oF8dCT8nyA2Pnh8abdMtK3d3mH5k57RZicKUGdXa6af1oG4LXA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220426T120000Z&X-Amz-SignedHeaders=host&X-Amz-Expires=21600&X-Amz-Credential=ASIAZH6WM4PLTZYXUNO4%2F20220426%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=175cdf0e7bbee20302b511fa98b7014d3dceb108eb727a049d92b7f92a228855) 
+
+Hay que modificar: 
+- models.py el cual contiene Perceptron y modelos de red neuronal para una variedad de aplicaciones. 
+
+Archivo que debes leer pero NO editar:
+- nn.py el cual contiene una Mini-biblioteca de red neuronal
+
+Los demás .py te ayudan a implementar lo que tenemos que modificar. 
+
+
